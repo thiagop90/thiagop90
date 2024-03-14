@@ -4,7 +4,7 @@ Thanks for visiting my **GitHub** profile. Explore my projects!
 <div>
   <p>My name is Thiago Pereira, I'm 22 years old.
     
-  <p> I'm a passionate developer, always eager to explore this broad universe of programming. I constantly seek to face new challenges and improve my web development skills.</p>
+  <p> Always in search of new knowledge, with the aim of improving my skills and taking programming to a level that goes beyond simple code, providing incredible experiences for users.</p>
 </div>
 
 Technologies I know:
