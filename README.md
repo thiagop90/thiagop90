@@ -8,7 +8,7 @@ Always in search of new knowledge, with the aim of improving my skills and takin
 
 Technologies & Tools I know:
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,tailwind,mysql,postgres,supabase,vitest,jest,prisma,docker,figma&perline=7)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,tailwind,mysql,postgres,supabase,vitest,jest,prisma,docker,figma)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
